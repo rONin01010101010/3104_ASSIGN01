@@ -1,1 +1,1 @@
-SDLC teaches the process of effective development of effective software in an industry setting, it provides a scope for management, development and team management within software development. 
+SDLC teaches the process of effective development of effective software in an industry setting, it provides a scope for management, development and team management within software development.  
