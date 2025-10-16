@@ -5,11 +5,12 @@ DevOps has revolutionized the traditional Software Development Lifecycle by brid
 In the modern SDLC, DevOps practices enable faster delivery of features and updates through automation of building, testing, and deployment processes. This acceleration doesn't compromise quality; instead, it enhances it through continuous integration and automated testing at every stage.
 
 DevOps introduces critical improvements to each SDLC phase:
-- Planning: Better collaboration and visibility across teams
-- Development: Version control and code review practices ensure code quality
+- Planning: Better collaboration and visibility across teams using agile methodologies
+- Development: Version control and code review practices ensure code quality and team synchronization
 - Testing: Automated testing catches bugs early and reduces manual effort
 - Deployment: CI/CD pipelines enable frequent, reliable releases
 - Monitoring: Continuous feedback loops help identify and resolve issues quickly
+- Maintenance: Automated rollback and recovery mechanisms ensure system stability
 
 The implementation of DevOps practices reduces deployment failures, shortens time to market, and improves system reliability. By automating repetitive tasks, teams can focus on innovation and delivering value to customers.
 
