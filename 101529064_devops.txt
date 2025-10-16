@@ -1,0 +1,1 @@
+COMP 3104 covers essential DevOps tools and practices for modern software development. The curriculum includes Git, Docker, and Jenkins. Lab exercises focus on building CI/CD pipelines and deploying applications. The course also covers GitHub Actions and Kubernetes, demonstrating why DevOps knowledge is valuable for software development careers.
