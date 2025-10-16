@@ -1,6 +1,6 @@
 COMP 3104 - DevOps is a comprehensive course designed to introduce students to the principles and practices of DevOps methodology in software development and IT operations. This course is part of the Computer Systems Technology program at George Brown College.
 
-This course covers essential topics including version control with Git and GitHub, continuous integration and continuous deployment (CI/CD) pipelines, automation, containerization with Docker, and infrastructure as code. Students learn to use industry-standard tools such as GitHub Actions, Jenkins, and various automation frameworks.
+This course covers essential topics including version control with Git and GitHub, continuous integration and continuous deployment (CI/CD) pipelines, automation, containerization with Docker, and infrastructure as code. Students learn to use industry-standard tools such as GitHub Actions, Jenkins, Travis CI, and various automation frameworks that are widely adopted in the tech industry.
 
 The curriculum emphasizes collaborative development practices, branching strategies, pull request workflows, and code review processes. Students gain hands-on experience with automated testing, deployment pipelines, and monitoring tools that are critical in modern software development environments.
 
